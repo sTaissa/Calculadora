@@ -36,7 +36,20 @@ Em seguida, calcula e exibe o resultado.</li>
 
 <h3 id="prints"> 📌 Screen Shots </h3>
 
-<p> 🚧 Tópico em construção 🚧 </p>
+<p> Soma: </p>
+<img src="./images/soma.PNG">
+
+<p> Subtração: </p>
+<img src="./images/subtracao.PNG">
+
+<p> Multiplicação: </p>
+<img src="./images/multiplicacao.PNG">
+
+<p> Divisão: </p>
+<img src="./images/divisao.PNG">
+
+<p> Quadrado de um número: </p>
+<img src="./images/quadrado.PNG">
 
 <h3 id="tecnologias"> 🛠 Tecnologias </h3
 
@@ -47,7 +60,7 @@ Em seguida, calcula e exibe o resultado.</li>
 </ul>
 
 <h3 id="autor">👩‍💻 Autor</h3>
-<! -- colocar imagem <img src="./images/me.jpg" height="100px"/>
+<img src="./images/autor.jpg" height="70px"/>
 <p><b>Taissa Silva</b></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Taissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taissa-silva-39a4171b5/)](https://www.linkedin.com/in/taissa-silva-39a4171b5/) 
