@@ -11,6 +11,7 @@ public class Main {
     Scanner scan = new Scanner(System.in);
     int n;
 
+    //apresenta as opções
     do {
         System.out.println("Escolha uma opção:");
         System.out.println("[0] Sair\n[1] Soma\n[2] Subtração\n[3] Multiplicação\n[4] Divisão\n[5] Quadrado do número\n");
@@ -18,6 +19,7 @@ public class Main {
         n = scan.nextInt();
         System.out.println();
 
+        //chama o método correspondente
         switch (n) {
           case 0:
             break;
